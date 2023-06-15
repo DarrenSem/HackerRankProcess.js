@@ -1,7 +1,7 @@
 # process.js-for-HackerRank
 Minimal polyfill (324 characters minified) for client-side JS to add missing NodeJS functions for completing HackerRank.com challenges -- process.stdin/stdout/env.OUTPUT_PATH and require("fs").createWriteStream
 
-(So I can complete HackerRank.com challenges on my cell using my custom REPL bookmarklet.)
+(So I can complete HackerRank.com challenges on my cell using [my custom REPL bookmarklet](https://gist.github.com/DarrenSem/b5be4d9ad5e0fd0219cd1165a6a757b2).)
 
 [right-click to save raw / standalone .js source file](https://raw.githubusercontent.com/DarrenSem/process.js-for-HackerRank/main/index.js)
 ```

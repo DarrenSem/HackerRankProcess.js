@@ -4,7 +4,7 @@ Minimal polyfill (324 characters minified) for client-side JS to add missing Nod
 (So I can complete HackerRank.com challenges on my cell using [my custom REPL bookmarklet](https://gist.github.com/DarrenSem/b5be4d9ad5e0fd0219cd1165a6a757b2).)
 
 [right-click to save raw / standalone .js source file](https://raw.githubusercontent.com/DarrenSem/process.js-for-HackerRank/main/index.js)
-```
+```javascript
 // process.js-HackerRank.com-NodeJS-polyfill.js
 // paste into TOP of HackerRank problem solution (JavaScript version, or TypeScript too I guess)
 
